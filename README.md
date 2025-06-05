@@ -1,7 +1,3 @@
-# NIH Cloud Platform Interoperability Program (NCPI) - Partners
-
----
-
 ## Participating Partner Systems
 
 ---
