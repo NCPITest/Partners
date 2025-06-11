@@ -17,7 +17,7 @@
 
 ### NHGRI AnVIL
 <img
-  src="https://github.com/user-attachments/assets/70b46e13-8fe6-4212-8392-8d1d59cbede9"
+  src="logos/logo-anvil.png"
   alt="NHGRI AnViL Logo"
   width="300"
 />
