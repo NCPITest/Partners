@@ -85,7 +85,7 @@ United with Researchers to Drive Data-Driven Discoveries that put Kids First in 
 ### National Center for Biotechnology Information (NCBI)
 
 <img
-  src="logos/logo-dbgap.png"
+  src="logos/logo-dbgap.jpg"
   alt="NCBI dbGaP Logo"
   width="300"
 />
