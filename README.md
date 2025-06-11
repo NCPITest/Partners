@@ -1,4 +1,16 @@
-## Participating Partner Systems
+<p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
+
+<div align="center">
+  <h2>
+    <a href="https://github.com/NCPITest/About">About</a> |
+    <a href="https://github.com/NCPITest/Partners">Partners</a> |
+    <a href="https://github.com/NCPITest/Projects">Projects</a> |
+    <a href="https://github.com/NCPITest/Resources">Resources</a>
+  </h2>
+</div>
+
+## <p align="center">  Partner Systems  </p>
+
 
 ---
 
