@@ -15,15 +15,19 @@
 
 ---
 
-### NHGRI AnVIL
+<h3> NHGRI AnVIL </h3>
 <img
   src="logos/logo-anvil.png"
+  align="right"
   alt="NHGRI AnViL Logo"
-  width="300"
+  width="450"
 />
 
-NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space  
-[Visit Website](https://anvilproject.org)
+NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space 
+
+[Visit Website](https://anvilproject.org) 
+
+[Learn More](https://www.genome.gov/Funded-Programs-Projects/Computational-Genomics-and-Data-Science-Program/Genomic-Analysis-Visualization-Informatics-Lab-space-AnVIL)
 
 **Social**  
 - [@useAnVIL (Twitter)](https://twitter.com/useAnVIL)  
