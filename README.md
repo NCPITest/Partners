@@ -35,12 +35,13 @@ NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space
 
 ---
 
-### NHLBI BioData Catalyst (BDC)
+<h3> NHLBI BioData Catalyst (BDC) </h3>
 
 <img
   src="logos/bdc.png"
+  align = "right"
   alt="NHLBI BioData Catalyst Logo"
-  width="300"
+  width="450"
 />
 
 Tools, applications, and workflows in secure workspaces  
@@ -52,12 +53,13 @@ Tools, applications, and workflows in secure workspaces
 
 ---
 
-### NCI Cancer Research Data Commons (CRDC)
+<h3> NCI Cancer Research Data Commons (CRDC) </h3>
 
 <img
   src="logos/nci-crdc.png"
+  align="right"
   alt="NCI Cancer Research Data Commons Logo"
-  width="300"
+  width="450"
 />
 
 
@@ -70,11 +72,12 @@ Accelerating data-driven scientific discovery
 
 ---
 
-### NIH Common Fund - Kids First Data Resource Center (KFDRC)
+<h3> NIH Common Fund - Kids First Data Resource Center (KFDRC) </h3>
 <img
   src="logos/logo-kidsfirst.png"
+  align="right"
   alt="NIH Kid's First Data Resource Center Logo"
-  width="300"
+  width="450"
 />
 
 United with Researchers to Drive Data-Driven Discoveries that put Kids First in Cancer and Rare Disease Care  
@@ -86,12 +89,13 @@ United with Researchers to Drive Data-Driven Discoveries that put Kids First in 
 
 ---
 
-### National Center for Biotechnology Information (NCBI)
+<h3> National Center for Biotechnology Information (NCBI) </h3>
 
 <img
   src="logos/logo-dbgap.jpg"
+  align="right"
   alt="NCBI dbGaP Logo"
-  width="300"
+  width="450"
 />
 
 Access to protected genomic, subject and sample data related to human studies  
